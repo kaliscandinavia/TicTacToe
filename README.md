@@ -11,10 +11,6 @@
 
 - https://kaliscandinavia.github.io/TicTacToe
 
-**Code For Any Game;**
-```
-https://github.com/kaliscandinavia/TicTacToe
-```
 
   **OS compatibility.Tested on** ✅
   <br><br>
